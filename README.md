@@ -1,4 +1,4 @@
-# ftp-proxy
+# Squid 3.3
 USAGE
 
 Start docker.
