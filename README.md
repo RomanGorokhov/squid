@@ -3,6 +3,6 @@ USAGE
 
 Start docker.
 ```
-docker run --env "USER=user" --env "PASS=pass" -d -p 3128:3128 $container
+docker run --env "USER=user" --env "PASS=pass" -d -p 3128:3128 idle/squid
 ```
 
